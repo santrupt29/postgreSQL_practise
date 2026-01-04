@@ -85,10 +85,9 @@ JOIN orders o ON oi.ord_id = o.ord_id
 JOIN products p ON oi.p_id = p.p_id
 JOIN customers c ON o.cust_id = c.cust_id;
 ```
- `![Query Output]` → Alt text for the image.  
-- `(results/result.png)`
+![Query Output](results/result.png)
 
-## ** Tech Stack / Tools**
+## Tech Stack / Tools
 
 ```markdown
 ## Tech Stack
