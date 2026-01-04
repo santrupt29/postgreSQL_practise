@@ -88,7 +88,7 @@ JOIN customers c ON o.cust_id = c.cust_id;
  `![Query Output]` → Alt text for the image.  
 - `(results/result.png)`
 
-## **5️⃣ Tech Stack / Tools**
+## ** Tech Stack / Tools**
 
 ```markdown
 ## Tech Stack
